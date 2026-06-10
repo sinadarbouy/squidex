@@ -109,6 +109,9 @@
 .icon-external-link:before {
   content: "\e96d";
 }
+.icon-externaloidc:before {
+  content: "\e96d";
+}
 .icon-minus-square:before {
   content: "\e969";
 }
